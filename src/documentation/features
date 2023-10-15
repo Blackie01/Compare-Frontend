@@ -1,0 +1,22 @@
+For the basic usage of the application, users don't need to sign up. So, they can come for a quick comparison of a 
+particular concept and log off. 
+
+Other application features will however involve them creating an account. 
+
+
+Free to use features: 
+- landing page
+- the jumbo will have a little animation video of like how the app works. Showing how they should just type in what they want to learn about and all. 
+- dropdown (FAQs) of common concepts that people compare between different frameworks
+- the search feature. they select the two languages they want to compare betwee, then choose the topic they want to compare. or if it's not in our list of topics, it should allow them manually type the search query.
+
+
+Features requiring registration
+- account
+- the search feature, but allows for comparing between more than 2 frameworks at the same time. max is 4 though. 
+- search/learning history
+- context/follow up searches
+
+
+High-level features
+- we can even have it that when the user have an app to build, they can just like write the code in one framework, and have the AI rewrite it with another framework. the AI will also understand context and all. 

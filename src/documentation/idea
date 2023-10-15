@@ -1,0 +1,11 @@
+Problem Statement: 
+I know React very well, but when trying to use Angular, I have to do a lot of research to know the syntax and processes involved in implementing some logic i already know. I just want to be able to easily transfer my knowledge of using one framework to another language. 
+
+
+Solution: 
+
+CompareFrontend 
+
+An app that compares how different frameworks/library approach the same concept or logic. 
+For instance, if you're a frontend developer vast in React, but you want to implement lazyloading in Angular, the application can help your see a two-way display on how the execution of the process look like in both libraries/framework. 
+The output of the application will be a two output field design that shows either framework or library on each field, with texts and codeblocks comparing the implementation of the two. 
